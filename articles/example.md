@@ -1,26 +1,8 @@
-[date: 2015-10-31]
-[summary: Any content you write in this tag will be used as your article's summary on listing pages. If you don't include a summary tag, we'll take the first paragraph from the article itself.]
+[date: 2015-11-13]
+[summary: What to watch?]
 [tag: tag-one]
 [tag: tag-two]
 
-# This Is An Example Title
+# Hello world. I need help.
 
-If you don't include a date tag, we'll use the date that we first detected the article in your repo. Articles published in the future won't be visible until that date.
-
-```ruby
-def foo
-  puts "this is an example of a fenced code block"
-end
-```
-
-Mixing code and prose in the same file can be cumbersome. To make it easier, we support the `snippet` tag. These tags allow you to embed code from files stored in your `/snippets` directory.
-
-[snippet: example.rb]
-
-You can also include specific line number ranges from a snippet:
-
-[snippet: example.rb:4,6]
-
-## Subheader
-
-We'll use the first h1 in your file as the article title. If we don't detect an h1, we'll generate a title from the file name. All subsequent headers in the article should start at h2.
+I think I've watched all of Netflix. Now what?
